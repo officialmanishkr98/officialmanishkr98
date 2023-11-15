@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
 <h3 align="center">A Passionate Developer and DevOps Engineer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://github.com/officialmanishkr98/officialmanishkr98/blob/main/img/engineer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialmanishkr98&label=Profile%20views&color=0e75b6&style=flat" alt="officialmanishkr98" /> </p>
 
 - 🔭 I’m currently working in **Impressico Business Solutions**
